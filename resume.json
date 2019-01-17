@@ -5,7 +5,7 @@
     "picture": "",
     "email": "priyankamurthy28@gmail.com",
     "phone": "+ 91 7899417625",
-    "summary": "Over 2 years of experience in the IT industry. Hands on experience on developing native IOS based application. Ability to understand and start working on new technology quickly. Ability to manage multiple tasks. Excellent interpersonal communication and debugging skills. Database(Core Data,FireBase),Design and analysis of algorithm , Parallel Processing. Proficient in API(XML & JSON),SwiftyJSON,Alamofire. Proficient in setting up Code in hosting server & on Github.",
+    "summary": "Over 3 years of experience in the IT industry. Hands on experience on developing native IOS based application. Ability to understand and start working on new technology quickly. Ability to manage multiple tasks. Excellent interpersonal communication and debugging skills. Database(Core Data,FireBase),Design and analysis of algorithm , Parallel Processing. Proficient in API(XML & JSON),SwiftyJSON,Alamofire. Proficient in setting up Code in hosting server & on Github.",
     "location": {
       "address": "Karanji Katte, Khadripura rd",
       "postalCode": "563101",
@@ -28,6 +28,15 @@
     ]
   },
   "work": [{
+    "company": "Tata Elxsi/ Primus Global",
+    "position": "DSTV NOW ",
+    "website": "https://itunes.apple.com/us/app/dstv-now/id467168196?mt=8",
+    "startDate": "2017-07-01",
+    "summary": "IOS Development using Swift 4.0",
+    "highlights": [
+      "DSTV Now is a video streaming application which contained videos related to entertainment, sports, kids, learning etc. It also provided live streaming of videos."
+    ]
+},{
     "company": "Theorem India Pvt Ltd",
     "position": "Sidearm Sports",
     "website": "https://itunes.apple.com/us/developer/sidearm­sports/id329195539",
