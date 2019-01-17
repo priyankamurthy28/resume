@@ -1,0 +1,193 @@
+{
+  "basics": {
+    "name": "Priyanka K Murthy",
+    "label": "IOS Developer",
+    "picture": "",
+    "email": "priyankamurthy28@gmail.com",
+    "phone": "+ 91 7899417625",
+    "summary": "Over 2 years of experience in the IT industry. Hands on experience on developing native IOS based application. Ability to understand and start working on new technology quickly. Ability to manage multiple tasks. Excellent interpersonal communication and debugging skills. Database(Core Data,FireBase),Design and analysis of algorithm , Parallel Processing. Proficient in API(XML & JSON),SwiftyJSON,Alamofire. Proficient in setting up Code in hosting server & on Github.",
+    "location": {
+      "address": "Karanji Katte, Khadripura rd",
+      "postalCode": "563101",
+      "city": "Kolar",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": [
+          {
+            "network": "Github",
+            "username": "priyankakmurthy",
+            "url": "https://github.com/priyankamurthy28"
+          },
+          {
+            "network": "Linkedin",
+            "username": "priyankakmurthy",
+            "url": "https://www.linkedin.com/in/priyanka-murthy-849a7b6b/"
+          }
+          
+    ]
+  },
+  "work": [{
+    "company": "Theorem India Pvt Ltd",
+    "position": "Sidearm Sports",
+    "website": "https://itunes.apple.com/us/developer/sidearm­sports/id329195539",
+    "startDate": "2017-05-05",
+    "endDate": "2018-03-15",
+    "summary": "IOS Development using Swift 4.0",
+    "highlights": [
+      "Providing the user to login through facebook and the linkedin",
+      "Integrating the facebook and linkedin by using a cocoapods dependency",
+      "Understanding of the Ticketmaster SDK & integrating it to the project",
+      "Integrating the Event API and the Discovery API from the Ticketmaster SDK"
+    ]
+},
+    {
+    "position": "Mighty",
+    "company": "Theorem India Pvt Ltd",
+    "summary": "IOS Development using Swift 2.3 & 3.0",
+    "startDate": "2017-05-05",
+    "endDate": "2018-03-15",
+    "website": " https://itunes.apple.com/us/app/mighty­audio/id1164822276?mt=8",
+    "highlights": [
+        "Integrated third party Spotify by using cocoapods to get the songs from the Spotify",
+        "Downloading of the songs from the spotify premium account and saving the songs offline",
+        "providing the user to create a playlist and to add the songs",
+        "Provided communication between Bluetooth mighty device and the iPhone devices."
+     ]
+  },
+  {
+    "company": "Inflexion Technologies",
+    "position": "Route Joot",
+    "website": "https://itunes.apple.com/in/app/routejoot/id1071397481?mt=8",
+    "startDate": "2016-01-02",
+    "endDate": "2017-08-15",
+    "summary": "IOS Development using Swift 2.3",
+    "highlights": [
+      "Integrated google map sdk and google API to get the current location and to track the location",
+      "Providing the user to choose the list of bikes with the year which is displayed in the tableview",
+      "Providing the ride documentary includes total ride time,detailed ride map",
+      "Providing a option for a rider to schedule the ride",
+      "providing a option for a rider to track the routes of the other rides"
+    ]
+  },
+  {
+    "company": "Accel Frontline Ltd",
+    "position": "Catch The K(Kellogg’s)",
+    "website": "http://www.inflexiontech.com/",
+    "startDate": "2014-11-15",
+    "endDate": "2015-10-18",
+    "summary": "IOS Development using Objective C",
+    "highlights": [
+        "‘Catch the K’ APP is a promotional APP for Kellogg’s. The game is to catch the 3K’s within a minute by scanning the QR code present in the stall. The challenge in the game is that there are numerous QRs in stall in which only 8 Are valid and if the user scan the valid QR a ‘K’ appears on the screen , user should move the hair cross pin on the appeared ‘K’ and catch it. This has to be performed to catch 3k’s. once the valid QR is scanned and K is caught, If user tries to read the same QR again the K will not appear.",
+        "Integrated the ZBAR SDK to scan the QR codes",
+       "Implemented the logic to catch the correct QR code and make the ‘K’ float on the screen"
+    ]
+},
+{
+    "company": "Accel Frontline Ltd",
+    "position": "Ken & Smith Ipad APP",
+    "website": "http://www.inflexiontech.com/",
+    "startDate": "2014-11-15",
+    "endDate": "2015-10-18",
+    "summary": "IOS Development using Objective C",
+    "highlights": [
+        "IOS Development using Objective C",
+    "Ken & Smith Ipad APP - Ken and smith is an iPad application developed for the famous builders in Europe. It is about the documentation of Ken & Smith group .Created a PDF Reader to display the PDF with options for the demo. Options are: Slideshow & Manual Operation (Swipe Gesture and Previous, Next Buttons) for changing the pages. This APP is supported only in Landscape Mode.",
+        "Integrated the ZBAR SDK to scan the QR codes",
+       "Implemented the logic to catch the correct QR code and make the ‘K’ float on the screen"
+    ]
+}
+    ],
+  "education": [{
+    "institution": "VTU",
+    "College":"CBIT",
+    "area": "Electronics & Communication",
+    "studyType": "Bachelor"
+    
+  }],
+ 
+  "skills": [
+      {
+    "name": "IOS Development",
+    "level": "Master",
+    "keywords": [
+        "Swift",
+        "Objective C",
+        "APNS Push Notification",
+        "Pushwoosh",
+        "Appsflyer"
+    ]
+  },
+  {
+    "name": "IOS Testing",
+    "level": "Intermediate",
+    "keywords": [
+         "Unit testing"
+    ]
+  },
+  {
+    "name": "IOS Development",
+    "level": "Beginner",
+    "keywords": [
+    "Reactive native",
+    "JavaScript",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "CoreData",
+        "Sqlite",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "algorithms",
+         "data structures",
+         "git"
+      ]
+    }
+  
+  
+],
+  "languages": [ {
+    "language": "English",
+    "fluency": "Intermediate"
+  },
+  {
+    "language": "Hindi",
+    "fluency": "Intermediate"
+  },
+  {
+    "language": "Telugu",
+    "fluency": "Master"
+  },
+  {
+    "language": "Kannada",
+    "fluency": "Master"
+  }],
+  "interests": [
+    {
+      "name": "TV Serials",
+      "keywords": [
+        "FRIENDS",
+        "The big bang theory",
+        "How I met your mother"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Technology",
+        "News"
+
+      ]
+    }
+  ]
+}
