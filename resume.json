@@ -28,10 +28,11 @@
     ]
   },
   "work": [{
-    "company": "Tata Elxsi/ Primus Global",
+    "company": "Tata Elxsi",
     "position": "DSTV NOW ",
     "website": "https://itunes.apple.com/us/app/dstv-now/id467168196?mt=8",
     "startDate": "2018-07-01",
+    "endDate": "2019-02-15",
     "summary": "IOS Development using Swift 4.0",
     "highlights": [
       "DSTV Now is a video streaming application which contained videos related to entertainment, sports, kids, learning etc. It also provided live streaming of videos."
@@ -50,26 +51,12 @@
       "Integrating the Event API and the Discovery API from the Ticketmaster SDK"
     ]
 },
-    {
-    "position": "Mighty",
-    "company": "Theorem India Pvt Ltd",
-    "summary": "IOS Development using Swift 2.3 & 3.0",
-    "startDate": "2017-05-05",
-    "endDate": "2018-03-15",
-    "website": " https://itunes.apple.com/us/app/mighty­audio/id1164822276?mt=8",
-    "highlights": [
-        "Integrated third party Spotify by using cocoapods to get the songs from the Spotify",
-        "Downloading of the songs from the spotify premium account and saving the songs offline",
-        "providing the user to create a playlist and to add the songs",
-        "Provided communication between Bluetooth mighty device and the iPhone devices."
-     ]
-  },
   {
     "company": "Inflexion Technologies",
     "position": "Route Joot",
     "website": "https://itunes.apple.com/in/app/routejoot/id1071397481?mt=8",
     "startDate": "2016-01-02",
-    "endDate": "2017-08-15",
+    "endDate": "2016-08-15",
     "summary": "IOS Development using Swift 2.3",
     "highlights": [
       "Integrated google map sdk and google API to get the current location and to track the location",
@@ -110,6 +97,8 @@
   "education": [{
     "institution": "VTU",
     "College":"CBIT",
+     "startDate": "2010-08-15",
+    "endDate": "2014-05-18",
     "area": "Electronics & Communication",
     "studyType": "Bachelor"
     
